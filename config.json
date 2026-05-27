@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdonnect",
+        "uuid": 822240,
+        "checksum": "z35oi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
